@@ -9,7 +9,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://app.hackthebox.com/public/users/3063253" target="_blank">
-        <img src="https://www.hackthebox.com/badge/image/3063253" alt="HackTheBox Profile Stats" />
+        <img src="https://cinema-badge.vercel.app/api/htb" alt="HackTheBox Profile Stats" />
       </a>
     </td>
   </tr>
