@@ -8,8 +8,8 @@
       <img src="https://cinema-badge.vercel.app/api/letterboxd" alt="Latest film" />
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/qyrn" target="_blank">
-        <img src="https://streak-badge.vercel.app/api/streak?user=qyrn" alt="GitHub Streak" />
+      <a href="https://app.hackthebox.com/public/users/3063253" target="_blank">
+        <img src="https://www.hackthebox.com/badge/image/3063253" alt="HackTheBox Profile Stats" />
       </a>
     </td>
   </tr>
