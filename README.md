@@ -1,4 +1,4 @@
-<img width="100%" alt="banner" src="https://i.ibb.co/MygkmNhZ/banner-500kb.png?v=1789677667" />
+<img width="100%" alt="Security & Hacking researcher, Cinema enthusiast" src="assets/banner.png" />
 
 &nbsp;&nbsp;&nbsp;
 
@@ -16,7 +16,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://qyrn.dev" target="_blank">
-        <img width="100%" alt="qyrn.dev" src="https://i.ibb.co/0VVh0kxJ/550217799-ec044c73-9636-4824-9012-162a3ffbce73.png?v=1789677667" />
+        <img width="100%" alt="qyrn.dev" src="assets/qyrn-dev.jpg" />
       </a>
     </td>
   </tr>
